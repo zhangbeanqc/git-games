@@ -4,5 +4,16 @@ class JavaGame03 {
         System.out.println("Hello1");
         System.out.println("Hello2");
         System.out.println("Hello3");
+        System.out.println("New Hello 1");
+        System.out.println("New Hello 2");
+        System.out.println("New Hello 3");
+
+        System.out.println("Hello4");
+        System.out.println("Hello5");
+        System.out.println("Hello6");
+
+        System.out.println("Hello10");
+        System.out.println("Hello11");
+        System.out.println("Hello12");
     }
 }
