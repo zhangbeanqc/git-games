@@ -23,5 +23,9 @@ class JavaGame03 {
         System.out.println("Hello15");
         System.out.println("Hello17");
         System.out.println("Hello18");
+
+        System.out.println("Hello19");
+        System.out.println("Hello20");
+        System.out.println("Hello21");
     }
 }
